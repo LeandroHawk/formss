@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\bin\Debug\Projeto MVC.exe.config
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\bin\Debug\Projeto MVC.exe
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\bin\Debug\Projeto MVC.pdb
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\obj\Debug\Projeto MVC.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\obj\Debug\Projeto_MVC.Form1.resources
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\obj\Debug\Projeto_MVC.Properties.Resources.resources
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\obj\Debug\Projeto MVC.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\obj\Debug\Projeto MVC.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\obj\Debug\Projeto MVC.exe
+C:\Users\aluno\source\repos\Projeto MVC\Projeto MVC\obj\Debug\Projeto MVC.pdb
